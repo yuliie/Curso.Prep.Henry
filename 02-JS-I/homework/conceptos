@@ -1,0 +1,18 @@
+///conceptos 
+    
+    *Variables: es una forma de almacenar un valor para usarlo mas tarde.
+
+	* Strings: cualquier texto entre comillas es un "Strings"
+
+	* Funciones:(también denominada declaración de función o expresión de función)
+     consta de la palabra clave function. seguido por:
+        Nombre de la función-(REFERENCIA a lo que hace)
+    
+        -Argumentos:los valores de los argumentos pasados a esa función. 
+        
+        -return: finaliza la ejecución de la función y especifica un valor para ser devuelto a quien llama a la función.
+
+	* Declaraciones if: Es un condicional que sirve para realizar unas u otras operaciones en función de una expresión.
+
+	* Valores booleanos (`true`, `false`): un booleano tiene 2 posibles valores: true (verdadero) o false (falso).
+
